@@ -1,0 +1,34 @@
+{
+  "name": "kavenegarjs",
+  "version": "0.1.0",
+  "description": "New Promise-Based Kavenegar JS Client",
+  "main": "./index.js",
+  "module": "./index.js",
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmadMaleki/kavenegarjs.git"
+  },
+  "keywords": [
+    "kavenegar",
+    "sms",
+    "otp",
+    "promise"
+  ],
+  "author": {
+    "name": "Ahmad Maleki",
+    "email": "ahmad_maleki93@yahoo.com",
+    "url": "https://www.ahmadmaleki.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadMaleki/kavenegarjs/issues"
+  },
+  "homepage": "https://github.com/AhmadMaleki/kavenegarjs#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
