@@ -1,6 +1,6 @@
 {
   "name": "kavenegarjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "New Promise-Based Kavenegar JS Client",
   "main": "./index.js",
   "module": "./index.js",
